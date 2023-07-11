@@ -28,6 +28,8 @@ Topics we currently have:
 22. Search Engines [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/searchengines.html)|[Link]()
 23. Speaking [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/speaking.html)|[Link]()
 24. Summarizer [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/summarizer.html)|[Link]()
-25. Trivia [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/trivia.html)|[Link]()
+25. Topic Generator [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/topicgenerator.html)|[Link]()
+26. Trivia [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/trivia.html)|[Link]()
+27. Workout [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/workout.html)|[Link]()
 
-26. Template [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/.html)|[Link]()
+28. Template [Code](https://github.com/Repository-of-Brightness/bookmarks/blob/main/topics/.html)|[Link]()
